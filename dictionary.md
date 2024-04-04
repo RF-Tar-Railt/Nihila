@@ -360,6 +360,7 @@
   - lida 平原
   - lido  平地
   - lidara  平底锅
+  - libin (lidpihin) 板子，板材
 - lih   冠词（复数/不可数）
 - lim  之间
 - linda 歌
