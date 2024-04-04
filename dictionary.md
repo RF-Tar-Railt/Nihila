@@ -238,12 +238,12 @@
 - fales 海岸
 - fan  铁
   - fanié 铁制的
-    - fangic 钉子
-      - fethic(fanothigic) 针
-        - fethié 扎人的
-        - fico(fethiégithoma) 蜜蜂
-          - fosaw(fethiégithomatirofysawig -> ficotirofysawig) 蜂蜜
-        - fethiw 扎
+  - fangic 钉子
+  - fethic(fanothigic) 针
+    - fethiw 扎，刺
+    - fethié 扎人的
+      - fico(fethiégithoma) 蜜蜂
+        - fosaw(fethiégithomatirofysawig -> ficotirofysawig) 蜂蜜
 - fasil  复杂的
   - fasus 简单的
 - fáus 生物，动物
@@ -405,7 +405,7 @@
     - maniwés 烧焦的
     - mento(maniwhento) 烤制
       - maséno(mísamesconwittithimentimento) 面包
-      - masécot 面包（蓬松）
+        - masécot 面包（蓬松）
       - masito(mísamesconwittimento) 饼
     - mennïw(maniwhentoconwit) 煮
     - mennos(maniwhentoconwittiwitsiv -> menniwtiwitsiv) 熬煮
@@ -486,10 +486,10 @@
   - norsa 享受
 - nosi 多
   - noso 更多
-- nu     之下
+- nu  之下
   - nébo(nufámov) 肉
 - numen 应该
-- nuss   少
+- nuss  少
   - nusso 更少
 - nut   必须，一定
 - ny 零
