@@ -403,7 +403,8 @@
 - manil 火，字母M
   - manite 可燃
   - maniw 燃烧
-    - maniwés 烧焦的
+    - manulié 燃烧的
+    - maniwés 烧焦的，灰烬
     - mento(maniwhento) 烤制
       - maséno(mísamesconwittithimentimento) 面包
         - masécot 面包（蓬松）
