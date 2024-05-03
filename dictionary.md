@@ -226,7 +226,6 @@
 - é  是（对外指向）
 - éthel 精灵
   - éthela 精灵语
-- éc  像
 - égil  刻，钻 (动作)
 - éleg  婴儿
 - ém   的 ('s)
@@ -644,6 +643,7 @@
   - secu 跟随
     - secén 追随者，信徒
     - séceri 模仿
+    - sénna 相似，像
 - sélion 强壮的，无畏的
   - sélmü(sélionlimf) 猪，野猪
 - sén 七
@@ -652,6 +652,7 @@
     - serva(ségmennosésrofysa) 糖
     - sames(sétagitetharnlimtentus) 面粉
 - si    在(空间上)
+- silivren 闪闪发光
 - siv 消失
   - sivé 没有，不存在，无
 - sín 出现
@@ -840,6 +841,7 @@
 - wasin 阴影
 - wit 水
   - wár 海
+  - wáran 大海
   - wáron 海浪
   - wein 雨
     - weinamora 雨后的清新气息
