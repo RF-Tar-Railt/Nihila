@@ -777,6 +777,7 @@
   - thimgol(thoicimol) 气泡
     - thimen 发酵
       - thiméndh 酿造
+    - thicora(thimgolwitmotrofysa) 可乐
 - thoma 浪花
 - thorith 飞行
 - thorod 激流
