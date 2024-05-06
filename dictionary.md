@@ -223,7 +223,6 @@
   - ermés  产品
 - evánt 攻击
 - evo 写，字母E
-- é  是（对外指向）
 - éthel 精灵
   - éthela 精灵语
 - égil  刻，钻 (动作)
@@ -440,6 +439,7 @@
   - moffen 傻瓜，蠢货
 - monli 窄，狭小
 - monro 完全，全部，所有的
+- mô 不是
 - mor- /morn 否，非，负，反
   - morrisé 无声的
   - moslíno 无限的
@@ -476,7 +476,7 @@
 - nirtod  杯子，字母N
 - niv   测量
 - níl   宽
-- no   是（自指向/无指向）
+- no   是（陈述句/肯定句）
 - noc  亿
 - nonn 天
   - nôme 日出
@@ -674,7 +674,7 @@
 - sta-/stania 郡，省，大区
 - stard 地域
 - ston 故乡
-- su   是（对内指向）
+- su   是（疑问句/反问句）
 - sucin 伟大的
 - sune 只，独，唯一
 - sult 跳
