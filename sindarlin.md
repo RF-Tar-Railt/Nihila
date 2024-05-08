@@ -1,0 +1,361 @@
+A
+a 和
+adu  成双的
+adan 人类
+edain 人类们
+aelin/ael/lin 湖泊，水塘，小池，池塘
+aer/eär/gaer/aearon 海
+aew 小鸟
+aeg  尖
+aglar 荣光，光耀
+aina 神圣的
+alph 天鹅
+ard(h) 地域
+ardhon 行省、大区
+eilph 天鹅们
+am- 向上
+amarth 末日
+amon 山丘，山峰
+amdir 希望，信念
+emyn 山丘(复数) ，丘陵
+an- “令”（with, by）
+an(d) 长的
+-an“土地，国土”
+anor 太阳
+annûn 日落，西边
+asgar 湍急的、迅疾的
+athrad 渡口
+auth 幽魂
+númen 西边
+dûn 西边
+ang 铁
+angren 铁的
+anna 赠礼
+annon 大门
+ennyn 大门(复数)
+-ath 后缀表示复数
+ar- 附近，外面
+ar(a)-/arod/arth 高贵的，高尚的，王室的
+aran 王
+aráto 出类拔萃的人
+atar 父亲
+aur 阳光，白天
+anwar/awar 敬畏
+
+B
+bal- 力量
+band 监狱
+bad走，踏；踪迹，道路
+bar 住处
+barad 塔
+balc 恐怖的
+beleg /veleg强大，大
+bin 小
+born 坚定的
+bragol 突然
+brand 尖顶
+brethil 桦木/公主
+bereth 王后
+bril 玻璃
+brui 吵闹的，作响的
+brith 沙砾
+
+C
+calen/galen 绿色
+calad/galad 光芒
+cair 船
+caenui 第十
+cam 手
+cantui 第四
+carn/caran 红色
+ceber 钉子
+celeb 银
+celebrin 如银的
+cîr/gir船只
+cor 环 
+côf 港湾
+coll 披风
+coron 丘
+cú 弓
+cûl 担
+cuinar活的
+cul- 金红
+curu 巧艺
+cirith 隘口
+caun/gaun 英勇
+
+D
+dae 阴影
+dagor 战斗
+dal 尾
+dar 足
+daer 大的，伟大的
+del 恐怖
+deloth 憎恶
+dîn 静寂
+dim  阶梯
+dil 齿
+dínen/tínen 寂静
+dol 头，山，顶峰
+(n-)dor 土地，居住地
+-dor 高贵的
+dolen 隐秘的
+draug 狼
+dú 夜晚，昏暗
+dúlin 夜莺
+duin 河
+dûr/duir 黑暗
+
+E
+edhil 高等精灵
+edhel 精灵
+elleth 精灵女子
+edhellen 精灵语
+eithel 泉，泉源
+elen/el 星
+encui 第六
+er 一个，独自，单一
+erib 独自的、孤独的
+ereg 荆棘，冬青
+ered 山脉
+erain “王者”的复数形式
+ernil 亲王
+esgal 屏蔽，隐藏
+estel 希望
+echor 环绕的
+en 的
+enedh 中间
+ephel 屏障
+ethuil 春天
+ethir 三角洲
+eryn 森林
+
+F
+falas 海岸
+fanui 云
+faroth 打猎，猎手
+faug 张口
+firn/firin 死亡
+fin- 头发
+forn/for/forod 北方
+fuin 昏暗，黑暗
+
+G
+gal- 发光
+galad 璀璨光辉
+galadh 树
+gaya 敬畏
+gaur 狼
+glass 喜悦，欢乐
+gell 喜悦，胜利
+gebir 尖刺
+gil 星，闪光
+giliath群星
+girith 战栗，颤抖的
+glin 闪烁，微光，闪光
+glan 边缘，范围，边境，限制
+gond 岩石
+gobel 有墙的小屋或村落
+gor 恐怖，可怕
+gost 恐惧
+gorn 可敬的
+gonui 英勇的
+groth 洞，地底的住处，挖掘
+gul 魔法
+gurth 死亡
+gwareth 守望、守护
+gwath/wath 阴影，暗影
+
+H
+haudh 小丘
+harn 宝石
+helec/hel 冰
+hele/heledh 镜
+hen 眼
+hîl 继承
+hir 王者
+hiril 仕女
+him 凉
+hith 雾
+har-/harn/harad 南方
+
+I
+in 谁，那，定冠词the
+iâ 空虚，深渊
+iant 桥
+iath 屏障，篱笆
+iach 渡口
+-ian/iand 地区，土地
+-ion 代表地名的词根/...的儿子
+-ien 女性名字的词根
+iaur 古老的
+imlad 陡峭的山谷
+imloth 山谷
+ithil 月亮
+ita 闪耀
+
+L
+lad 平原，谷地
+lalaith  欢笑
+laden 敞开的，明朗的
+lanthir 瀑布
+lego 自由
+leben 五
+lefnui 第五
+lhach/lach 跃动的火焰
+lhaw耳朵
+lin- 歌唱
+lith 灰烬
+lithui 灰白色的，灰的，多灰尘的
+lamm/lóm 回声
+lond 港口
+loss 雪
+loth/lúth 花
+luin 蓝色
+lum  阴影
+las 叶子
+
+M
+maeg  锐利
+malt/mal- 金子
+mallen/glaur 金色的
+mel- 爱
+med 湿
+men 方向
+minui 第一
+meneg 千
+menel 天空
+mereth 宴会
+medui/vedui/methed 最后的
+methed 最后的
+melui 甜香的花
+min/ mindol 山峰
+minas 塔
+mir /vir 珠宝
+mith 灰色
+mor/morn 黑暗
+morchait黑暗的形影，影子
+moth 黄昏
+
+N
+nan(d) 谷地
+naeth 刺痛的
+naur 火
+ndak 杀害
+ndengin 被杀害的
+neleg 第三
+neldor 山毛榉
+nen 水
+nerthui 第九
+ninniach 彩虹
+nim 白
+nir 眼泪，哭泣
+-nu- 之下
+-nir/-ndîr ……的人
+
+O
+orn 树
+odo/otso 七
+othui 第七
+-oth 巨称后缀
+orod 山
+oro 高
+ered 山脉
+os(t) 堡垒
+
+P
+pant 所有，全部
+paur/baur 拳头
+pel- 环绕，围篱
+peth/beth 词语，声音，言语
+pedo 开口
+penn 斜坡
+parth 草地
+
+R
+ram 墙
+rath 城市内的街道；攀爬
+ran- 流浪，漫游
+rant 水道
+raen 刺激，缠绕
+ras/rais 角
+rog 恶魔
+rían  皇后
+ril 光辉灿烂
+rim 数目众多
+rîn 纪念
+ring 寒冷
+ris 割裂
+ris- /rhis-“裂缝，山谷”
+roh/roch- 马
+rhûn 东方
+rhosc 褐色的
+roth 山洞
+rond 穹顶
+rost  雨
+ros 泡沫，浪花
+ruin 红色火焰
+ruth 愤怒
+rûdh 光秃
+
+S
+sad 地方，地点
+sam 室
+sammath  许多房间
+sarn 石头
+sador 忠诚的人
+sael/hael 聪明的，明智的
+sâdh/had 草坪
+sereg 血
+sir- 流
+sîr河
+sul 风
+suil 问候，致敬
+
+T
+tal/dal 足
+tadeg 第二
+taeg 分界线
+talath 平坦之地，平原
+tharan 旺盛
+tar- 高的，高贵的
+tasar 柳树
+tawar 树
+taur 森林
+tel- 完成，结束
+thalion 强壮的，无畏的
+thang 压迫
+thar- 横过，穿过
+thil- 发光
+thel 决心
+thin(d) 灰色
+thol 盔
+thon 松树
+thoron 鹰
+thorod 激流
+til- 尖端
+tin- 闪耀
+tir 看，守望，观察
+tirith 守望，守卫(动名词)
+tol 岛屿
+tolhui 第八
+tum 谷
+tur 权力，掌握
+
+U
+-ui 形容词后缀
+uial 微光
+uir 永生的，不朽的
+ur- 加热，热
+Undómë "傍晚的暮光
+ungol 蜘蛛
+
+V
+vegil/megil 剑
+vagol 剑客
+vinya 新的
+
+W
+waith 人民
+wen 少女
+wing 浪花
