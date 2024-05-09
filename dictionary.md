@@ -177,6 +177,7 @@
   - danth 舒缓
 - dar 足
   - das 路，痕迹
+- dalan 陆地
 - del 恐惧
   - deloth 憎恶
   - dégor 恐怖
@@ -196,13 +197,16 @@
 - du  通过
 - dul 土地，字母D
   - dulla 草地
+  - dulfé 距离
 - dunt 土，泥土
   - dunuton 矿石
   - dunwe 泥巴
   - dunié 软的
 
+
 ## DH
 - dham 位置
+- dhae 距离
 - dhás 狗
 - dhand 监狱
 - dhaug 狼
@@ -335,22 +339,17 @@
 
 ## L
 - la  冠词（单数）
-- lada 那些
 - lallthi 渴望
 - lan 百
 - lanh 然后
-- lata 这些
 - láva 粗
 - laýa 大
   - late(laýatonve) 块
-- le   这
-- le-/let 最
-  - ledon 最后
-  - lesot  最先
+- lé-/lét 最
+  - lédon 最后
+  - lésot  最先
   - léýa  最大
 - lén(i)-/lein  蓝色
-- léma 这里
-- léna 那里
 - lér   凉
   - lérona  秋天
 - lévanth  杀
@@ -360,7 +359,6 @@
   - lidara  平底锅
   - libin (lidpihin) 板子，板材
 - lih   冠词（复数/不可数）
-- lim  之间
 - linda 歌
   - lindi 唱
   - linn 音乐
@@ -369,13 +367,16 @@
 - lit  光
   - litus 照明，照耀
   - litopic 光谱
+  - lita 点亮，点燃
 - lith 灰烬
   - lithui 灰白色的，灰的，多灰尘的
     - limo(lithuimígnunévo) 骨骼
     - limif(lithuimígnunévosiruf -> limosiruf) 牙齿
 - liv(o)-/livur  白色
 - lí  假设，如果
+- lo   这
 - loa 年
+- loca 这里  
 - lof 植物
   - loféleg/lofég 种子
   - lofe 藤蔓，字母L
@@ -384,11 +385,15 @@
     - lofiv 纤维
     - lofy 蛇
 - loi 雪
+- lonc 之间
+- lota  这些
 - lov 反复
   - lovin 回来，归来
     - lovun 回答
 - lu 那
 - lu-/lud 第，第次
+- luda  那些
+- luga  那里
 
 ## M
 - man 三
@@ -414,7 +419,7 @@
 - marno 一些
 - maswar 湍急的，迅疾的
 - mat   但，但是
-- me   需要
+- mé   需要
 - meit 物品，事物的
   - meida 作品
   - médha 价值
@@ -567,6 +572,7 @@
   - pihin  薄
   - pilonit 最低
   - pinn  斜坡
+  - pinnon 倾斜向下
 - plindo 歌颂，称赞
 - poll 披风，字母P
 - pomýa 欢迎
@@ -643,7 +649,7 @@
   - secu 跟随
     - secén 追随者，信徒
     - séceri 模仿
-    - sénna 相似，像
+    - séna 相似，像
 - sélion 强壮的，无畏的
   - sélmü(sélionlimf) 猪，野猪
 - sén 七
@@ -690,6 +696,7 @@
 
 ## T
 - taden 敞开的，明朗的
+- talun 遥远且宽广的
 - tâla 那么
 - tag  分界线
   - tagido 交换
@@ -698,7 +705,6 @@
   - tariath 群星
 - tasin 白天
 - tawon 开始，起始
-- tá 世界
 - táso 不久前
 - távo 不久后
 - tel 字母
