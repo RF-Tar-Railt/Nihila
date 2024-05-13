@@ -478,7 +478,7 @@
 - nif   数量
 - nih/nirh   拥有
 - ninns  好的
-- nirtod  杯子，字母N
+- nirto  杯子，字母N
 - niv   测量
 - níl   宽
 - no   是（陈述句/肯定句）
@@ -712,6 +712,7 @@
 - tent 紧密
   - tenth 紧张
 - ténro 睡觉
+- ténson 床 
 - ti   和，并列关系
 - tila 一尺
 - timo 假
@@ -798,7 +799,7 @@
   - ulágiw 修正，修改
   - ulé  正确的
 - ulaith 欢笑
-- umir 眼泪，哭泣
+- umir 眼泪，哭泣，字母U
   - umoth 伤心
 - ûn-/ûnndo 表疑问，什么
   - ûnba 什么原因(问句)
@@ -809,7 +810,7 @@
   - ûnso 哪一个
   - ûne 问题
 - usa 开心，高兴，快乐
-- uténro 床，字母U
+- ungol  蜘蛛
 
 ## V
 - va 原因，因由
