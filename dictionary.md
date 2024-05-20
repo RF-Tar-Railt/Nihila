@@ -477,10 +477,13 @@
 - ni  一
   - nîfa 一半
 - nif   数量
+  - nifus 计数
+  - nifin  测量
+- niv   数字
+  - nivéme 数据
 - nih/nirh   拥有
 - ninns  好的
 - nirto  杯子，字母N
-- niv   测量
 - níl   宽
 - no   是（陈述句/肯定句）
 - noc  亿
@@ -601,6 +604,7 @@
 - reta 给，给予
 - ruf 嘴
   - rév 说
+    - rémmí 描述 
   - rif 吹
     - rifetus 吹散
 - rilénn 杀死
@@ -709,7 +713,8 @@
 - táso 不久前
 - távo 不久后
 - tel 字母
-  - tero 字，词
+  - tero 字，词，文字
+    - tériman (terorémmíténda) 消息
 - tent 紧密
   - tenth 紧张
 - ténro 睡觉
@@ -719,6 +724,7 @@
 - timo 假
 - tîn 动的，运动
   - tisé(tînslám) 变换，变化
+    - ténda(tînslámdia) 事件
 - tirisin 守护
 - tiro 真
 - tobel 房子
@@ -816,6 +822,8 @@
 ## V
 - va 原因，因由
   - ván 知道
+    - vánmen 了解
+      - víme 信息
     - vánié 知晓，认识
     - vánél 想起来，意识到
     - vánét 清楚
@@ -828,8 +836,8 @@
 - vén 千
 - vie   不是，否定
   - vip  不会，不能
+  - vilé  错误的
 - viénth 战争
-- vilé  错误的
 - vinton 节日
 - vinýa  新的
 - vit     关于
@@ -842,7 +850,7 @@
     - volitem 小月，周
     - volos 午夜
 - vur 温暖
-  - vurona 春天，字母V
+  - vurna 春天，字母V
 
 ## W
 - wan 少女
