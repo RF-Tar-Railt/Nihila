@@ -80,7 +80,6 @@
 ## B
 
 - balf 天鹅
-- bamot 沙砾
 - bamro 翼
 - bané 蛋
   - banasél 蛋黄
@@ -89,6 +88,8 @@
     - baráng 尖顶
 - barath 沙子，字母B
   - barthina 沙漠
+  - bamot 沙砾
+    - barom 玻璃
 - baunt 鸭子
 - bauth 幽灵
 - báw 鸟
@@ -101,7 +102,6 @@
 - bragol 突然
 - bréth 言语，话
   - brédia 流言，传闻
-- briw 玻璃
 - brui 吵闹
 - bûlin 夜莺
 - bûn 灵魂
@@ -155,7 +155,7 @@
 - cole 同一个
 - con  与，先后关系
 - conir 结果，结局
-  - coniw 结束，了却，了断
+  - coniu 结束，了却，了断
   - conit 终于
     - comit  直到
 - conna 命令，指挥
@@ -242,9 +242,10 @@
   - fanié 铁制的
   - fangic 钉子
   - fethic(fanothigic) 针
-    - fethiw 扎，刺
+    - fethiu 扎，刺
     - fethié 扎人的
       - fico(fethiégithoma) 蜜蜂
+        - ficdhon (蜂)巢
         - fosaw(fethiégithomatirofysawig -> ficotirofysawig) 蜂蜜
 - fasil  复杂的
   - fasus 简单的
@@ -405,13 +406,13 @@
 - mamto 任意，任一
 - manil 火，字母M
   - manite 可燃
-  - maniw 燃烧
+  - maniu 燃烧
     - manulié 燃烧的
     - maniwés 烧焦的，灰烬
-    - mento(maniwhento) 烤制
-      - maséno(mísamesconwittithimentimento) 面包
+    - mento(maniuhento) 烤制
+      - masano(mísacalosconwittithimentimento) 面包
         - masécot 面包（蓬松）
-      - masito(mísamesconwittimento) 饼
+      - masito(mísacalosconwittimento) 饼
     - mennïw(maniwhentoconwit) 煮
     - mennos(maniwhentoconwittiwitsiv -> menniwtiwitsiv) 熬煮
 - manro 部分
@@ -425,8 +426,8 @@
   - médha 价值
     - mésint(meitsivádsínden) 创造
     - médhiâ 创作
-  - méw   制作，制造
-    - méqu 技术
+  - méus   制作，制造
+    - méq 技术
     - menin 过程
 - mereth 宴会
 - mez   瘙痒的
@@ -509,11 +510,11 @@
 - oinar 生命
   - onré(oinarié) 活的，活着的
   - oita(oinartawon) 出生
-  - oinio 长寿
+  - onio 长寿
 - ofél 屏障，高墙
 - ogroi 环，字母O
 - ome 上升
-  - omiw 增长
+  - oméd 增长
 - omis 情绪，情感
   - ômire 我喜欢你
     - ônore 我爱你
@@ -656,7 +657,7 @@
 - sét(a)-/séler 黄色
   - ség(sétagite) 小麦
     - serva(ségmennosésrofysa) 糖
-    - sames(sétagitetharnlimtentus) 面粉
+    - sacalos(sétagitetharnlonctentus) 面粉
 - si    在(空间上)
 - silivren 闪闪发光
 - siv 消失
@@ -774,7 +775,7 @@
   - thint 水渠
 - tharn 石头
   - tharéc 石器
-  - thamew(tharnlimtentus) 摩擦，研磨
+  - thanetus(tharnlonctentus) 摩擦，研磨
 - thig 翅膀
 - thit 浮动，流动
   - thir 流畅
@@ -796,7 +797,7 @@
 
 ## U
 - ui  是的，肯定
-  - ulágiw 修正，修改
+  - ulágiu 修正，修改
   - ulé  正确的
 - ulaith 欢笑
 - umir 眼泪，哭泣，字母U
