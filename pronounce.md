@@ -40,7 +40,7 @@
 | lofer “藤蔓”  | l    | l，ɫ  | 与leg中的l相似，在词尾发暗音/ɫ/                                    |
 | /           | ll   | lː   | l的长音                                                   |
 | manil “火”   | m    | m    | 与mark中的m相似                                             |
-| nirto “杯子” | n    | n    | 与night中的n相似                                            |
+| nirto “杯子”  | n    | n    | 与night中的n相似                                            |
 | /           | ng   | ŋ(ɡ) | 在两个元音之间发\[ŋɡ\]的音(类似英语中finger),其余发\[ŋ\] 的音(类似英语中singer) |
 | /           | nn   | nː   | n的长音                                                   |
 | porit “觉悟”  | p    | p    | 与pet中的p相似                                              |

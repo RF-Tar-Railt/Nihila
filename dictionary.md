@@ -36,8 +36,8 @@
 - ásum 陌生人
 - aséh 熟人
 - asei 相识
-- áci 丈夫
-- áli 妻子
+- ámin 丈夫
+- ámon 妻子
 
 - â  之中
 - abonte 遗迹
@@ -241,6 +241,8 @@
 - fan  铁
   - fanié 铁制的
   - fangic 钉子
+    - fangiu 钉，钉住
+    - fangot 挂，悬挂
   - fethic(fanothigic) 针
     - fethiu 扎，刺
     - fethié 扎人的
@@ -285,9 +287,9 @@
 - gife 羽毛，字母G
 - gilon 轻唱，吟唱
 - git 小
-  - gite(gitonve) 颗
-    - gitoma(gittomena) 虫
-      - githoma(gittomenathorith -> gitomathorith) 飞虫
+  - gité(gitonve) 颗
+  - gitoma(gittomena) 虫
+    - githoma(gittomenathorith -> gitomathorith) 飞虫
 - gíus 接近，到来，靠近
 - go 六
 - groth 洞
@@ -311,7 +313,7 @@
 - hisin 雾
 - hiv 重的
 - híl 冰冷
-  - hílona 冬天
+  - hílna 冬天
 
 # I
 - ïâ 空虚，深渊
@@ -350,15 +352,16 @@
   - lédon 最后
   - lésot  最先
   - léýa  最大
+  - lévanth  杀
 - lén(i)-/lein  蓝色
 - lér   凉
-  - lérona  秋天
-- lévanth  杀
+  - lérna  秋天
 - lid   平的
   - lida 平原
   - lido  平地
   - lidara  平底锅
   - libin (lidpihin) 板子，板材
+  - liper (lidlofiveparmo) 纸，纸张
 - lih   冠词（复数/不可数）
 - linda 歌
   - lindi 唱
@@ -374,7 +377,6 @@
     - limo(lithuimígnunévo) 骨骼
     - limif(lithuimígnunévosiruf -> limosiruf) 牙齿
 - liv(o)-/livur  白色
-- lí  假设，如果
 - lo   这
 - loa 年
 - loca 这里  
@@ -401,7 +403,8 @@
   - manéras 三角形
   - manoliv 平面，面
     - mafini(manolivlofinina) 布料
-    - mafina 衣服
+      - mafina 衣服
+    - manogiv 片
 - maler 快
 - mamto 任意，任一
 - manil 火，字母M
@@ -436,11 +439,12 @@
 - mithila 旅行者
 - miru 侧面
 - míl 炎热
-  - mílona 夏天
+  - mílna 夏天
 - míre 木头
   - mírenés 炭
   - míg(míregicipél) 棍子
     - mís 搅拌，混合
+    - mícé 固定，坚持
 - moffé 愚蠢的
   - moffen 傻瓜，蠢货
 - monli 窄，狭小
@@ -501,6 +505,7 @@
 - numen 应该
 - nuss  少
   - nusso 更少
+  - nuthené (nussvánié) 秘密
 - nut   必须，一定
 - ny 零
 
@@ -663,7 +668,7 @@
     - serva(ségmennosésrofysa) 糖
     - sacalos(sétagitetharnlonctentus) 面粉
 - si    在(空间上)
-- silivren 闪闪发光
+- silivré 闪闪发光
 - siv 消失
   - sivé 没有，不存在，无
 - sín 出现
@@ -722,7 +727,9 @@
 - ti   和，并列关系
 - tila 一尺
 - timo 假
+  - tima(timova) 假设，如果
 - tîn 动的，运动
+  - tinu 移动
   - tisé(tînslám) 变换，变化
     - ténda(tînslámdia) 事件
 - tirisin 守护
@@ -800,6 +807,7 @@
 - thovy 吸
   - thoven(thovyhento) 闻
 - thunno 夜晚
+  - thunné 夜空
 
 ## U
 - ui  是的，肯定
