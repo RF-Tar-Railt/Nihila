@@ -189,6 +189,7 @@
 - dîm 静止
   - dinin 寂静
 - dím 阶梯
+  - dicim 台子，圆台
 - dolla 岛
 - don 西
 - dos 万
@@ -359,9 +360,12 @@
 - lid   平的
   - lida 平原
   - lido  平地
+    - litob (lidotobéta) (建筑)层
   - lidara  平底锅
   - libin (lidpihin) 板子，板材
   - liper (lidlofiveparmo) 纸，纸张
+  - lidut 层
+    - limc (lidutmoncín) 覆盖
 - lih   冠词（复数/不可数）
 - linda 歌
   - lindi 唱
@@ -369,7 +373,7 @@
   - linparte 语法
   - linta 语言
 - lit  光
-  - litus 照明，照耀
+  - litiu 照明，照耀
   - litopic 光谱
   - lita 点亮，点燃
 - lith 灰烬
@@ -413,10 +417,12 @@
     - manulié 燃烧的
     - maniwés 烧焦的，灰烬
     - mento(maniuhento) 烤制
+      - mentés 熟的
       - masano(mísacalosconwittithimentimento) 面包
-        - masécot 面包（蓬松）
+      - masécot 面包（蓬松）
       - masito(mísacalosconwittimento) 饼
     - mennïw(maniwhentoconwit) 煮
+	    - mennïwés 沸腾
     - mennos(maniwhentoconwittiwitsiv -> menniwtiwitsiv) 熬煮
 - manro 部分
 - maroth 打猎
@@ -449,6 +455,7 @@
   - moffen 傻瓜，蠢货
 - monli 窄，狭小
 - monro 完全，全部，所有的
+  - moncín (monrríncom) 充满
 - mô 不是
 - mor- /morn 否，非，负，反
   - morrisé 无声的
@@ -615,12 +622,16 @@
 - rilénn 杀死
 - rim(u)-/rimer 青色
 - rímo 失去
+  -  ríma 缺失的 (rímocafodo)
 - rina 许多，数目众多
 - rinel 认为
   - rinés 想法，思想
     - rincé(rinésádcein) 表达
     - rinil 想，思考
 - ríno  得到
+  - rínca (rínoceita) 重获，恢复
+    - ríncom (ríncarímathinom) 填充
+    - ríncunt (ríncarímadunt) 填埋
 - risu 发声
   - risié 有声的
 - risto 思念
@@ -735,6 +746,8 @@
 - tirisin 守护
 - tiro 真
 - tobel 房子
+  - toben 建造
+  - tobéta 建筑
 - toca 秒
 - toga 分
 - tona 时，小时
@@ -744,7 +757,7 @@
 - tolir 月份
 - tond 岩石
   - tonié 坚硬
-    - tomena(toniémafina) 甲，盔甲
+    - toménna(toniémafina) 甲，盔甲
 - tosil 困难的
 - tosiva 困难地
 - tosuma 容易地
@@ -796,6 +809,7 @@
   - thitovin 倒流，回流
 - thífigi 吸引人
 - thoit 气体，字母TH
+  - thinom (thoitmennïwés) 蒸汽
   - thimgol(thoicimol) 气泡
     - thimen 发酵
       - thiméndh 酿造
