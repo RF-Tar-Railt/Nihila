@@ -373,9 +373,9 @@
   - linparte 语法
   - linta 语言
 - lit  光
-  - litiu 照明，照耀
+  - lita 点亮，照明
   - litopic 光谱
-  - lita 点亮，点燃
+  - litáni 点燃
 - lith 灰烬
   - lithui 灰白色的，灰的，多灰尘的
     - limo(lithuimígnunévo) 骨骼
