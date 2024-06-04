@@ -57,11 +57,20 @@ on this side of ocean, here on this side of the Great Ocean! /
 	sí 这里
 	aearon 大海
 
-Rin athar annun-aearath
+Rin athar annûn-aearath
 彼岸王后，明净女士
+	rin 王后
+	athar 彼岸
+	annun-aearath 明净女士
+	- annun 明净
+	- aearath 女士
 
 Calad ammen i reniar
 照拂我族，漫步前行
+	calad/galad 照亮
+	ammen 我们（与格）
+    i 介词 that
+	reniar 行走
 
 Mi 'aladhremmin ennorath
 中洲大地，如织密林

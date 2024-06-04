@@ -136,7 +136,7 @@
 - cil 直
   - ciliv 直线
     - cilgiv(cilgísimiv) 切线
-    - cilgiqantoderé(cilgísimitrantotuderprié) 切向速度
+    - cilgantoderé(cilgísimitrantotuderprié) 切向速度
 - cim 曲
   - cimiv 曲线
     - colgiv(cimosimiv) 法线
@@ -212,6 +212,7 @@
 - dhand 监狱
 - dhaug 狼
 - dhini 灯，字母DH
+- dhu 锄头
 
 ## E
 - edar  走
@@ -436,7 +437,7 @@
     - mésint(meitsivádsínden) 创造
     - médhiâ 创作
   - méus   制作，制造
-    - méq 技术
+    - méz 技术
     - menin 过程
 - mereth 宴会
 - mez   瘙痒的
@@ -604,10 +605,6 @@
 - prié 长度
 - pué 能
 - pufá 鸽子
-
-## Q
-- qe 好吧
-- qu 锄头
 
 ## R
 - rág 角(生物)
@@ -812,7 +809,7 @@
   - thinom (thoitmennïwés) 蒸汽
   - thimgol(thoicimol) 气泡
     - thimen 发酵
-      - thiméndh 酿造
+      - thiméndh(thimenméz) 酿造
     - thicora(thimgolwitmotrofysa) 可乐
 - thoma 浪花
 - thorith 飞行
@@ -908,6 +905,7 @@
       - yrnu 权力，掌握，掌控
 - ýama 钱，财物
 - ýé 呀!
+- ýai  好吧
 - ýo二
 - ýomda 车
 
