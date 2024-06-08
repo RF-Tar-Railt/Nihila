@@ -644,9 +644,10 @@
     - rofin(romcurimcalufina -> rococalufina) 味道，味觉
       - rofysa 甜味
     - rothet(romcurimthoventhoit -> rocothoventhoit) 嗅觉
+  - rove 打
+    - rovien 战斗，斗争，字母R
 - roso 推
 - roto 拉
-- rovien 战斗，斗争，字母R
 - rûn 北
 - rut 左
 - ruz 光秃
