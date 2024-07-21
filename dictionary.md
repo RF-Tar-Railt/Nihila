@@ -345,13 +345,14 @@
   - ithun 寻找
 
 ## L
-- la  冠词（单数）
+- la  定冠词（单数）
 - lallthi 渴望
 - lan 百
 - lanh 然后
 - láva 粗
 - laýa 大
   - late(laýatonve) 块
+- le  定冠词(复数)
 - lé-/lét 最
   - lédon 最后
   - lésot  最先
@@ -369,7 +370,7 @@
   - liper (lidlofiveparmo) 纸，纸张
   - lidut 层
     - limc (lidutmoncín) 覆盖
-- lih   冠词（复数/不可数）
+- lih   定冠词（不可数）
 - linda 歌
   - lindi 唱
   - linn 音乐
