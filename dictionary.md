@@ -129,7 +129,8 @@
 - ceito 重复
 - cél-/céler 银色
 - cémo 颜色，色彩
-- cí 状态
+- cí 也许，可能
+- cibet 状态
 - cidor 头
   - cidom(cidorsotfámov) 脸
   - cidu 脑
@@ -307,6 +308,7 @@
 - hat 空间
 - havo 笔
 - het 冰
+  - hevor 晶体，水晶
 - heles 镜子
 - hento 慢
 - hér 鱼
@@ -470,7 +472,6 @@
 
 ## N
 - na     或
-- naim 可能，也许
 - nahi  谷地
 - nal  力量
   - nalig 强大的
