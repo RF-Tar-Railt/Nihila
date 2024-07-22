@@ -1,63 +1,69 @@
 ## A
 
-- ai/í- 此，自己
-- atin/ata 父亲
-- aton/ama 母亲
-- atina/aïn 父母
-- ater/ana 儿子
-- atem/ané 女儿
-- ateina/aina 孩子
-- avini/aca 哥哥
-- avodo/aco 弟弟
-- avino/ada 姐姐
-- avado/ado 妹妹
-- avitin 堂兄弟
-- aviton 表姐妹
+- â  之中
+- abonte 遗迹
+- adi-/adia 比喻，虚拟
+- ádiru 对称
+- ádo 一对
+- adu 成双
+- adhen 第一人称复数(排除性)与格
 - afin/apa 祖父
 - afon/afa 祖母
-- aviét 祖宗
-- atano 家族
+- afén 祖宗
+- ág 尖
+  - ágié 锐利
+- aglor 荣光，光耀
+- ai/í- 此，自己
+  - aino   今天
+- alco 分析
 - alite 平民，百姓
+- alian 英雄
+- allén 第三人称单数与格
+- aláto 出类拔萃的人
+- am 属于 (标记家世、出身)
+- amme 第一人称单数与格
+- amben 第一人称复数与格
+- ám 点
+  - ámacawe(ámalucarwig) 虱子
+- ammin 丈夫
+- ammon 妻子
+- amaris 末日
 - amino 仆从，字母A
 - amilia 仆女
-- asite 官员
-- asilét 宰相
-- asitor 长官
+- án   每一
+  - ánon 每天，每日
 - anmin 国王，男性统治者
 - anmon 女王，女性统治者
 - anmio 王后
 - anmoi 王夫
 - anter 王子
 - antem 王女
-- álian 英雄
-- aláto 出类拔萃的人
-- avio 亲戚
+- anru 第二人称单数与格
+- antun 第二人称复数与格
+- áras 角，边角
+- asite 官员
+- asilét 宰相
+- asitor 长官
 - áso 朋友
 - ásum 陌生人
 - aséh 熟人
 - asei 相识
-- ámin 丈夫
-- ámon 妻子
-
-- â  之中
-- abonte 遗迹
-- adi-/adia 比喻，虚拟
-- ád  去
-- ádiru 对称
-- ádo 一对
-- adu 成双
-- ág 尖
-  - ágié 锐利
-- aglor 荣光，光耀
-- aino   今天
-- alco 分析
-- ám 点
-  - ámacawe(ámalucarwig) 虱子
-- amaris 末日
-- an   每一
-  - anon 每天，每日
+- atano 家族
+- atin/ata 父亲
+- aton/ama 母亲
+- atina/aïn 父母
+- ater/ana 儿子
+- atem/ané 女儿
+- ateina/aina 孩子
+- athon 第三人称复数与格
 - aume 即使
-- áras 角，边角
+- avini/aca 哥哥
+- avodo/aco 弟弟
+- avino/ada 姐姐
+- avado/ado 妹妹
+- avitin 堂兄弟
+- aviton 表姐妹
+- avio 亲戚
 
 - Ar 神
   - arth 神圣的
@@ -94,10 +100,13 @@
 - bauth 幽灵
 - báw 鸟
   - barýa (báwroélaya) 鸡
+- be 第一人称复数所有格
 - bei 短
   - beicot 短暂的
 - béllin 美丽
   - béllenoi 美人，佳人
+- bi 第一人称复数主格
+  - bin 第一人称复数宾格
 - bo-/bori 橙色
 - bragol 突然
 - bréth 言语，话
@@ -185,6 +194,9 @@
 - dén 十
 - diano 狡猾
 - diafa 概念
+- di 第二人称复数主格
+  - din 第二人称复数宾格
+  - dih 第二人称复数所有格
 - die 停
 - díg 腿
 - dîm 静止
@@ -216,6 +228,8 @@
 - dhu 锄头
 
 ## E
+
+- é 去
 - edar  走
   - edur  急迫
 - éngit  幼童，孩童
@@ -385,6 +399,9 @@
     - limo(lithuimígnunévo) 骨骼
     - limif(lithuimígnunévosiruf -> limosiruf) 牙齿
 - liv(o)-/livur  白色
+- lí 第三人称单数主格
+  - lín 第三人称单数宾格
+  - lím 第三人称单数所有格
 - lo   这
 - loa 年
 - loca 这里  
@@ -433,6 +450,7 @@
 - marno 一些
 - maswar 湍急的，迅疾的
 - mat   但，但是
+- me 第一人称单数所有格
 - mé   需要
 - meit 物品，事物的
   - meida 作品
@@ -444,6 +462,8 @@
     - menin 过程
 - mereth 宴会
 - mez   瘙痒的
+- mi 第一人称单数主格
+  - min 第一人称单数宾格
 - mic 喜欢
   - moc 讨厌
 - mithila 旅行者
@@ -613,6 +633,9 @@
   - rádég/rádégor 邪恶，恶魔
   - ráhoduf 犀牛
 - reta 给，给予
+- ri 第二人称单数主格
+  - rin 第二人称单数宾格
+  - ril 第二人称单数所有格
 - ruf 嘴
   - rév 说
     - rémmí 描述 
@@ -679,6 +702,9 @@
     - serva(ségmennosésrofysa) 糖
     - sacalos(sétagitetharnlonctentus) 面粉
 - si    在(空间上)
+- sio 第三人称复数主格
+  - sinn 第三人称复数宾格
+  - sie 第三人称复数所有格
 - silivré 闪闪发光
 - siv 消失
   - sivé 没有，不存在，无
@@ -917,5 +943,8 @@
   - zit 住处，房子
 - zamelo 魔法
   - zamurth 死亡，杀死；巫术，黑魔法
+- ze 第一人称复数(排除性)所有格
+- zi 第一人称复数(排除性)主格
+  - - zin 第一人称复数(排除性)宾格
 - zonot 匕首，字母Z
 - zuru 巧艺，技巧
