@@ -165,7 +165,7 @@
 - cole 同一个
 - con  与，先后关系
 - conir 结果，结局
-  - coniu 结束，了却，了断
+  - conia 结束，了却，了断
   - conit 终于
     - comit  直到
 - conna 命令，指挥
@@ -258,18 +258,18 @@
 - fan  铁
   - fanié 铁制的
   - fangic 钉子
-    - fangiu 钉，钉住
+    - fangia 钉，钉住
     - fangot 挂，悬挂
-  - fethic(fanothigic) 针
-    - fethiu 扎，刺
-    - fethié 扎人的
-      - fico(fethiégithoma) 蜜蜂
+  - fanthic(fanothigic) 针
+    - fanthia 扎，刺
+    - fanthié 扎人的
+      - fico(fanthiégithoma) 蜜蜂
         - ficdhon (蜂)巢
         - fosaw(fethiégithomatirofysawig -> ficotirofysawig) 蜂蜜
 - fasil  复杂的
   - fasus 简单的
-- fáus 生物，动物
-  - fámav(fáusmanoliv) 皮肤
+- fánu 生物，动物
+  - fámav(fánumanoliv) 皮肤
     - fámovys 皮肤病，皮炎
 - fe 做
   - femen   工作
@@ -294,6 +294,7 @@
 
 ## G
 - gai 近
+   - gína 接近，到来，靠近
 - galit 璀璨光辉
 - gannon 大门
 - gar-/garen 绿色
@@ -307,7 +308,6 @@
   - gité(gitonve) 颗
   - gitoma(gittomena) 虫
     - githoma(gittomenathorith -> gitomathorith) 飞虫
-- gíus 接近，到来，靠近
 - go 六
 - groth 洞
 - gruf 舌头
@@ -434,17 +434,17 @@
 - mamto 任意，任一
 - manil 火，字母M
   - manite 可燃
-  - maniu 燃烧
-    - manulié 燃烧的
-    - maniwés 烧焦的，灰烬
-    - mento(maniuhento) 烤制
+  - mannia 燃烧
+    - mannié 燃烧的
+    - mannés 烧焦的，灰烬
+    - menta(manniahento) 烤制
       - mentés 熟的
-      - masano(mísacalosconwittithimentimento) 面包
+      - masano(mísacalonconwittithimentimenta) 面包
       - masécot 面包（蓬松）
-      - masito(mísacalosconwittimento) 饼
-    - mennïw(maniwhentoconwit) 煮
-	    - mennïwés 沸腾
-    - mennos(maniwhentoconwittiwitsiv -> menniwtiwitsiv) 熬煮
+      - masito(mísacalonconwittimenta) 饼
+    - mawenta(manniaconwithento) 煮
+	    - mawentés 沸腾
+    - mawensia(manniaconwithentotiwitsiv -> mawentatiwitsiv) 熬煮
 - manro 部分
 - maroth 打猎
 - marno 一些
@@ -457,8 +457,8 @@
   - médha 价值
     - mésint(meitsivádsínden) 创造
     - médhiâ 创作
-  - méus   制作，制造
-    - méz 技术
+  - ménia   制作，制造
+    - ménz 技术
     - menin 过程
 - mereth 宴会
 - mez   瘙痒的
@@ -511,7 +511,7 @@
 - ni  一
   - nîfa 一半
 - nif   数量
-  - nifus 计数
+  - nifia 计数
   - nifin  测量
 - niv   数字
   - nivéme 数据
@@ -620,7 +620,7 @@
   - ponit 底部
   - ponrem 放下
     - ponribon 放弃
-  - ponus 减少，降低
+  - ponia 减少，降低
 - posit 放置
 - porit 觉悟，意识
 - pret 表现
@@ -640,7 +640,7 @@
   - rév 说
     - rémmí 描述 
   - rif 吹
-    - rifetus 吹散
+    - rifená 吹散
 - rilénn 杀死
 - rim(u)-/rimer 青色
 - rímo 失去
@@ -699,8 +699,8 @@
 - sén 七
 - sét(a)-/séler 黄色
   - ség(sétagite) 小麦
-    - serva(ségmennosésrofysa) 糖
-    - sacalos(sétagitetharnlonctentus) 面粉
+    - serva(ségmawensiamésrofysa) 糖
+    - sacalon(sétagitetharnlonctená) 面粉
 - si    在(空间上)
 - sio 第三人称复数主格
   - sinn 第三人称复数宾格
@@ -764,7 +764,7 @@
 - ti   和，并列关系
 - tila 一尺
 - timo 假
-  - tima(timova) 假设，如果
+  - timlé(timolié) 假设，如果
 - tîn 动的，运动
   - tinu 移动
   - tisé(tînslám) 变换，变化
@@ -815,7 +815,7 @@
 - tug 撕扯
   - tugés 撕开
 - tuïn 远
-  - tunus 离开
+  - tuiná 离开
 - tulér 复兴
 - tum 五
 - twino 盾牌
@@ -827,7 +827,7 @@
   - thint 水渠
 - tharn 石头
   - tharéc 石器
-  - thanetus(tharnlonctentus) 摩擦，研磨
+  - thanetia(tharnlonctená) 摩擦，研磨
 - thig 翅膀
 - thit 浮动，流动
   - thir 流畅
@@ -835,7 +835,7 @@
   - thitovin 倒流，回流
 - thífigi 吸引人
 - thoit 气体，字母TH
-  - thinom (thoitmennïwés) 蒸汽
+  - thiwém (thoitmawentés) 蒸汽
   - thimgol(thoicimol) 气泡
     - thimen 发酵
       - thiméndh(thimenméz) 酿造
@@ -851,7 +851,7 @@
 
 ## U
 - ui  是的，肯定
-  - ulágiu 修正，修改
+  - ulágia 修正，修改
   - ulé  正确的
 - ulaith 欢笑
 - umir 眼泪，哭泣，字母U
@@ -876,7 +876,7 @@
     - vánél 想起来，意识到
     - vánét 清楚
     - vánno 理解
-      - vánus 使理解，教授
+      - vánna 使理解，教授
   - vánica 学习
 - vagil 剑
 - vanth 愤怒
