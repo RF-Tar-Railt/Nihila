@@ -32,15 +32,15 @@
 - amilia 仆女
 - án   每一
   - ánon 每天，每日
+- andun 第二人称复数与格
 - anmin 国王，男性统治者
 - anmon 女王，女性统治者
 - anmio 王后
 - anmoi 王夫
-- annen 第二人称单数与格
-- anter 王子
-- antem 王女
-- antun 第二人称复数与格
-- áras  角，边角
+- antar 王子
+- antam 王女
+- anten 第二人称单数与格
+- áras 角，边角
 - asite 官员
 - asilét 宰相
 - asitor 长官
@@ -263,9 +263,10 @@
   - fanthic(fanothigic) 针
     - fanthia 扎，刺
     - fanthié 扎人的
+      - fansé 刺痛的 
       - fico(fanthiégithoma) 蜜蜂
         - ficdhon (蜂)巢
-        - fosaw(fethiégithomatirofysawig -> ficotirofysawig) 蜂蜜
+        - fosaw(fethiégithomanurofysawig -> ficonurofysawig) 蜂蜜
 - fasil  复杂的
   - fasus 简单的
 - fánu 生物，动物
@@ -397,8 +398,8 @@
   - litáni 点燃
 - lith 灰烬
   - lithui 灰白色的，灰的，多灰尘的
-    - limo(lithuimígnunévo) 骨骼
-    - limif(lithuimígnunévosiruf -> limosiruf) 牙齿
+    - limo(lithuimígnénimdan) 骨骼
+    - limif(lithuimígnénimdansiruf -> limosiruf) 牙齿
 - liv(o)-/livur  白色
 - lí 第三人称单数主格
   - lín 第三人称单数宾格
@@ -440,12 +441,12 @@
     - mannés 烧焦的，灰烬
     - menta(manniahento) 烤制
       - mentés 熟的
-      - masano(mísacalonconwittithimentimenta) 面包
+      - masano(mísacalonconwitnuthimennementa) 面包
       - masécot 面包（蓬松）
-      - masito(mísacalonconwittimenta) 饼
+      - masito(mísacalonconwitnumenta) 饼
     - mawenta(manniaconwithento) 煮
 	    - mawentés 沸腾
-    - mawensia(manniaconwithentotiwitsiv -> mawentatiwitsiv) 熬煮
+    - mawensia(manniaconwithentonewitsiv -> mawentanuwitsiv) 熬煮
 - manro 部分
 - maroth 打猎
 - marno 一些
@@ -499,22 +500,23 @@
   - nalig 强大的
   - nallë  尽力，尽量
 - nann 也
+- né  之下
+  - nébo(néfámov) 肉
 - ne 一
   - nîfa 一半
   - nero 单一
     - nerin 群体
     - neru 独自
+- nef   数量
+  - nefia 计数
+  - nefin  测量
+- nev   数字
+  - nefam 数据
 - neth 中间
-- nesi 刻痕
-- nez 刺痛的
-- ni 第二人称单数主格
-  - nin 第二人称单数宾格
-  - nil 第二人称单数所有格
-- nif   数量
-  - nifia 计数
-  - nifin  测量
-- niv   数字
-  - nivéme 数据
+- ni 四
+  - nimiv(nimoliv) 体，立体
+    - nimdan(nimolivhadan) 身体
+      - nivot(nimolivhadanfodpret -> nimdanfodpret) 身体不好的表现/病症，疾病
 - nirto  杯子，字母N
 - níl   宽
 - no   是（陈述句/肯定句）
@@ -528,8 +530,8 @@
   - norsa 享受
 - nosi 多
   - noso 更多
-- nu  之下
-  - nébo(nufámov) 肉
+- noz 刻痕
+- nu 和，并列关系
 - numen 应该
 - nuss  少
   - nusso 更少
@@ -633,7 +635,7 @@
 - reta 给，给予
 - ruf 嘴
   - rév 说
-  - rémmí 描述 
+    - rémmí 描述 
   - rif 吹
     - rifená 吹散
 - rih/rinh   拥有
@@ -745,6 +747,10 @@
   - tamm 墙
 - tar 星
   - tariath 群星
+- tan 动的，运动
+  - tanu 移动
+  - tasé(tanslám) 变换，变化
+    - ténda(tanslámdia) 事件
 - tasin 白天
 - tawon 开始，起始
 - táso 不久前
@@ -754,21 +760,13 @@
     - tériman (terorémmíténda) 消息
 - tent 紧密
   - tenth 紧张
-- té 四
-  - témiv(témoliv) 体，立体
-    - teiman(témolivhadan) 身体
-      - téfot(témolivhadanfodpret -> témanfodpret) 身体不好的表现/病症，疾病
 - ténro 睡觉
   - ténson 床 
+- ti 第二人称单数主格
+  - tin 第二人称单数宾格
+  - til 第二人称单数所有格
 - tila 一尺
-- timo 假
-  - timlé(timolié) 假设，如果
-- tîn 动的，运动
-  - tinu 移动
-  - tisé(tînslám) 变换，变化
-    - ténda(tînslámdia) 事件
 - tirisin 守护
-- tiro 真
 - tobel 房子
   - toben 建造
   - tobéta 建筑
@@ -810,13 +808,15 @@
   - torsin 柳树
   - toreiv 灌木
   - torin 枝，字母T
-- tu   和，并列关系
+- tun 五
 - tug 撕扯
   - tugés 撕开
 - tuïn 远
   - tuiná 离开
 - tulér 复兴
-- tum 五
+- tumo 假
+  - tumlé(tumolié) 假设，如果
+- turo 真
 - twino 盾牌
 - two  周
 
