@@ -28,32 +28,32 @@
 ## 辅音
 
 
-| 名称          | 拉丁转写 | 音标   | 注释                                                     |
-| ----------- | ---- | ---- | ------------------------------------------------------ |
-| barath “沙子” | b    | b    | 与big中的b相似                                              |
-| coit “云”    | c    | k    | 永远发类似于英语cake的c音,从不发类似英语cell的c音                         |
-| dul “土地”    | d    | d    | 与do中的d相似                                               |
-| dhini “灯”   | dh   | ð    | 与the中的th最为相似                                           |
-| fegil “刀”   | f    | f    | 与fat中的f相似                                              |
-| gife “羽毛”   | g    | g    | 总是发英语中gasp的浊音g，从不发像英语中gem的g音                           |
-| hadan “人类”  | h    | h    | 与hat中的h相似                                              |
-| lofer “藤蔓”  | l    | l，l̩ | 与leg中的l相似，在元音后变成音节辅音                                   |
-| /           | ll   | lː   | l的长音                                                   |
-| manil “火”   | m    | m    | 与mark中的m相似                                             |
-| nirto “杯子”  | n    | n    | 与night中的n相似                                            |
-| /           | ng   | ŋ(ɡ) | 在两个元音之间发\[ŋɡ\]的音(类似英语中finger),其余发\[ŋ\] 的音(类似英语中singer) |
-| /           | nn   | nː   | n的长音                                                   |
-| porit “觉悟”  | p    | p    | 与pet中的p相似                                              |
-| rovien “战斗” | r    | ɹ，ɹ̩ | 与real中的r相似，在元音后变成音节辅音                                  |
-| rhoh “马”    | rh   | r    | 与意大利语中的r相似；近代以来逐渐向h音或r音靠近                              |
-| sandre “雷电” | s    | s    | 与set中的s相似，不发z音                                         |
-| shadar “鞋子” | sh   | ʃ    | 与share中的sh相似                                           |
-| /           | ss   | sː   | s的长音                                                   |
-| torin “枝”   | t    | t    | 与time中的t相似                                             |
-| thoit “气体”  | th   | θ    | 与both的th最为相似                                           |
-| vurna “春”   | v    | v    | 与very中的v相似                                             |
-| wilin “湖”   | w    | w    | 与water中的w相似                                            |
-| zonot “舌头”  | z    | z    | 与zoo中的z相似                                              |
+| 名称          | 拉丁转写 | 音标      | 注释                                                     |
+| ----------- | ---- | ------- | ------------------------------------------------------ |
+| barath “沙子” | b    | b       | 与big中的b相似                                              |
+| coit “云”    | c    | k       | 永远发类似于英语cake的c音,从不发类似英语cell的c音                         |
+| dul “土地”    | d    | d       | 与do中的d相似                                               |
+| dhini “灯”   | dh   | ð       | 与the中的th最为相似                                           |
+| fegil “刀”   | f    | f       | 与fat中的f相似                                              |
+| gife “羽毛”   | g    | g       | 总是发英语中gasp的浊音g，从不发像英语中gem的g音                           |
+| hadan “人类”  | h    | h       | 与hat中的h相似                                              |
+| lofer “藤蔓”  | l    | l, l̩/ɫ | 与leg中的l相似，在元音后变成音节辅音                                   |
+| /           | ll   | lː      | l的长音                                                   |
+| manil “火”   | m    | m       | 与mark中的m相似                                             |
+| nirto “杯子”  | n    | n       | 与night中的n相似                                            |
+| /           | ng   | ŋ(ɡ)    | 在两个元音之间发\[ŋɡ\]的音(类似英语中finger),其余发\[ŋ\] 的音(类似英语中singer) |
+| /           | nn   | nː      | n的长音                                                   |
+| porit “觉悟”  | p    | p       | 与pet中的p相似                                              |
+| rovien “战斗” | r    | ɹ/ɻ, ɹ̩ | 与real中的r相似，在元音后变成音节辅音                                  |
+| rhoh “马”    | rh   | r       | 与意大利语中的r相似；近代以来逐渐向h音或r音靠近                              |
+| sandre “雷电” | s    | s       | 与set中的s相似，不发z音                                         |
+| shadar “鞋子” | sh   | ʃ       | 与share中的sh相似                                           |
+| /           | ss   | sː      | s的长音                                                   |
+| torin “枝”   | t    | t       | 与time中的t相似                                             |
+| thoit “气体”  | th   | θ       | 与both的th最为相似                                           |
+| vurna “春”   | v    | v       | 与very中的v相似                                             |
+| wilin “湖”   | w    | w       | 与water中的w相似                                            |
+| zonot “舌头”  | z    | z       | 与zoo中的z相似                                              |
 
 ## 音变
 

@@ -73,7 +73,7 @@ mi fe(od) totí          我现在正在做
 
 ```
 mi rovél lín.        我打了他 (主动语态)
-lí rovéligin du min.  他被我打了 (被动语态)
+lí roveigin du min.  他被我打了 (被动语态)
 ```
 
 其通常后接du来表明动作发起者
@@ -86,7 +86,7 @@ lí rovéligin du min.  他被我打了 (被动语态)
 ```
 it min umirgin.    使我哭泣
 lo lí usagin.      这使他高兴
-(it) zin edargin!  我们走吧!
+(it) bin edargin!  我们走吧!
 ```
 
 注意该用法下，主语谓语宾语的位置会有调换，即 
@@ -98,18 +98,18 @@ lo lí usagin.      这使他高兴
 ûn- 前缀表示一种疑问的语义，其跟在不同的语句成分后面会使语句产生不同的含义。
 
 例如（注意ûn- 的位置）:
-1. ril avini no lín.        你的哥哥是他。
-2. ril avini su ûnlín?   你的哥哥是他?  (哪个“他”是你的哥哥（不止一个他）)
-3. ril avini ûnsu lín?  你的哥哥是?他  (“他”是不是你的哥哥（你确实有哥哥）)
-4. ril ûnavini su lín?   你的哥哥?是他  (“他”是你哪个哥哥（你不一定有哥哥）)
-5. ûnril avini su lín?   你?的哥哥是他  (他的弟弟是你吗)
+1. nil avini no lín.        你的哥哥是他。
+2. nil avini su ûnlín?   你的哥哥是他?  (哪个“他”是你的哥哥（不止一个他）)
+3. nil avini ûnsu lín?  你的哥哥是?他  (“他”是不是你的哥哥（你确实有哥哥）)
+4. nil ûnavini su lín?   你的哥哥?是他  (“他”是你哪个哥哥（你不一定有哥哥）)
+5. ûnnil avini su lín?   你?的哥哥是他  (他的弟弟是你吗)
 
 同样，ûn- 前缀的语句成分可以前置，来突出其疑问含义：
-1. ril avini no lín.        你的哥哥是他。
-2. ûnlín su ril avini?   你的哥哥是他?  (哪个“他”是你的哥哥（不止一个他）)
-3. ûnsu lín ril avini?  你的哥哥是?他  (“他”是不是你的哥哥（你确实有哥哥）)
-4. ûnavini ril su lín?   你的哥哥?是他  (“他”是你哪个哥哥（你不一定有哥哥）)
-5. ûnril avini su lín?   你?的哥哥是他  (他的弟弟是你吗)
+1. nil avini no lín.        你的哥哥是他。
+2. ûnlín su nil avini?   你的哥哥是他?  (哪个“他”是你的哥哥（不止一个他）)
+3. ûnsu lín nil avini?  你的哥哥是?他  (“他”是不是你的哥哥（你确实有哥哥）)
+4. ûnavini nil su lín?   你的哥哥?是他  (“他”是你哪个哥哥（你不一定有哥哥）)
+5. ûnnil avini su lín?   你?的哥哥是他  (他的弟弟是你吗)
 
 另一种疑问句则是在陈述句的基础上，将陈述句的一个部分以特殊词语代替，该类词语同样有ûn-前缀，称为疑问代词：
 
@@ -124,5 +124,5 @@ lo lí usagin.      这使他高兴
 | ûnso  | 哪一个  |
 
 例如
-- ril avini su ûnyr?  你的哥哥是哪个
+- nil avini su ûnyr?  你的哥哥是哪个
 - lí ûnsi?                  他在哪

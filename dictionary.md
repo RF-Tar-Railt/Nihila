@@ -36,11 +36,11 @@
 - anmon 女王，女性统治者
 - anmio 王后
 - anmoi 王夫
+- annen 第二人称单数与格
 - anter 王子
 - antem 王女
-- anru 第二人称单数与格
 - antun 第二人称复数与格
-- áras 角，边角
+- áras  角，边角
 - asite 官员
 - asilét 宰相
 - asitor 长官
@@ -279,6 +279,7 @@
 - feton 坚定
 - fédigon 溢出
 - féma 理由
+- fén 七
 - fim 头发
 - fina 食物
 - firn 死亡
@@ -498,25 +499,22 @@
   - nalig 强大的
   - nallë  尽力，尽量
 - nann 也
-- nero 单一
-  - nerin 群体
-  - neru 独自
+- ne 一
+  - nîfa 一半
+  - nero 单一
+    - nerin 群体
+    - neru 独自
 - neth 中间
-- né 四
-  - némiv(némoliv) 体，立体
-    - neiman(némolivhadan) 身体
-      - néfot(némolivhadanfodpret -> némanfodpret) 身体不好的表现/病症，疾病
 - nesi 刻痕
 - nez 刺痛的
-- ni  一
-  - nîfa 一半
+- ni 第二人称单数主格
+  - nin 第二人称单数宾格
+  - nil 第二人称单数所有格
 - nif   数量
   - nifia 计数
   - nifin  测量
 - niv   数字
   - nivéme 数据
-- nih/nirh   拥有
-- ninns  好的
 - nirto  杯子，字母N
 - níl   宽
 - no   是（陈述句/肯定句）
@@ -633,14 +631,12 @@
   - rádég/rádégor 邪恶，恶魔
   - ráhoduf 犀牛
 - reta 给，给予
-- ri 第二人称单数主格
-  - rin 第二人称单数宾格
-  - ril 第二人称单数所有格
 - ruf 嘴
   - rév 说
-    - rémmí 描述 
+  - rémmí 描述 
   - rif 吹
     - rifená 吹散
+- rih/rinh   拥有
 - rilénn 杀死
 - rim(u)-/rimer 青色
 - rímo 失去
@@ -681,9 +677,9 @@
 - rhoh 马，字母RH
 
 ## S
-- sa   所以
 - sada 行走
 - salam 黄金
+- sá 千
 - sandar 雷电，字母S
 - sang  压迫
 - sat(a)-/salar 金色
@@ -696,7 +692,6 @@
     - séna 相似，像
 - sélion 强壮的，无畏的
   - sélmü(sélionlimf) 猪，野猪
-- sén 七
 - sét(a)-/séler 黄色
   - ség(sétagite) 小麦
     - serva(ségmawensiamésrofysa) 糖
@@ -759,9 +754,12 @@
     - tériman (terorémmíténda) 消息
 - tent 紧密
   - tenth 紧张
+- té 四
+  - témiv(témoliv) 体，立体
+    - teiman(témolivhadan) 身体
+      - téfot(témolivhadanfodpret -> témanfodpret) 身体不好的表现/病症，疾病
 - ténro 睡觉
-- ténson 床 
-- ti   和，并列关系
+  - ténson 床 
 - tila 一尺
 - timo 假
   - timlé(timolié) 假设，如果
@@ -812,6 +810,7 @@
   - torsin 柳树
   - toreiv 灌木
   - torin 枝，字母T
+- tu   和，并列关系
 - tug 撕扯
   - tugés 撕开
 - tuïn 远
@@ -865,7 +864,8 @@
   - ûnso 哪一个
   - ûne 问题
 - usa 开心，高兴，快乐
-- ungol  蜘蛛
+- usin  好的
+- ugol  蜘蛛
 
 ## V
 - va 原因，因由
@@ -880,8 +880,8 @@
   - vánica 学习
 - vagil 剑
 - vanth 愤怒
+- ve 所以
 - vé     在(时间上)
-- vén 千
 - vie   不是，否定
   - vip  不会，不能
   - vilé  错误的
@@ -935,7 +935,7 @@
 - ýama 钱，财物
 - ýé 呀!
 - ýai  好吧
-- ýo二
+- ýo  二
 - ýomda 车
 
 ## Z

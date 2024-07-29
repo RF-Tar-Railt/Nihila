@@ -1,11 +1,11 @@
 
-Q: lo ûnsu lu yr? 他是那个人吗？
+Q: lí ûnsu lu yr? 他是那个人吗？
 
-A: ui, lo no lu yr/vie, lo mo lu yr. 是的，他是那位/不是，他不是那位
+A: ui, lí no lu yr/vie, lí mo lu yr. 是的，他是那位/不是，他不是那位
 
-Q: lo ûnmo lu yr? 他不是那位吗？
+Q: lí ûnmo lu yr? 他不是那位吗？
 
-A: ui, lo mo lu yr/vie, lo no lu yr. 是的，他不是那位/不是，他是那位
+A: ui, lí mo lu yr/vie, lí no lu yr. 是的，他不是那位/不是，他是那位
 
 ```mermaid
 graph TD
