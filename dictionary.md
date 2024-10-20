@@ -345,6 +345,8 @@
 - ime 名字
 - ina 缠绕
 - iné 果
+  -  inge 果核
+    - ingedia 核心  
 - ior 旧的，老的
 - ira 草
   - iront(iraponit) 根
@@ -432,6 +434,7 @@
     - mafini(manolivlofinina) 布料
       - mafina 衣服
     - manogiv 片
+    - maneth (manolivneth) 中心，中央
 - maler 快
 - mamto 任意，任一
 - manil 火，字母M
