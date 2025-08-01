@@ -457,6 +457,7 @@
 - mat   但，但是
 - me 第一人称单数所有格
 - mé   需要
+  - mébon 想要
 - meit 物品，事物的
   - meida 作品
   - médha 价值
@@ -466,6 +467,7 @@
     - ménz 技术
     - menin 过程
 - mereth 宴会
+- meu 之后
 - mez   瘙痒的
 - mi 第一人称单数主格
   - min 第一人称单数宾格
@@ -494,7 +496,7 @@
   - mothait 黑暗的形影，影子
   - motuli 乌鸦
 - mûn 南
-- mut 右
+- mut 右，之右
 
 ## N
 - na     或
@@ -513,6 +515,7 @@
 - nef   数量
   - nefia 计数
   - nefin  测量
+    - nefá (nefinmés) 值
 - nev   数字
   - nefam 数据
 - neth 中间
@@ -651,6 +654,7 @@
   - rinés 想法，思想
     - rincé(rinésádcein) 表达
     - rinil 想，思考
+  - rinda (rinedia) 希望
 - ríno  得到
   - rínca (rínoceita) 重获，恢复
     - ríncom (ríncarímathinom) 填充
@@ -658,7 +662,6 @@
 - risu 发声
   - risié 有声的
 - risto 思念
-- rish 希望
 - rith 风
 - roc 耳
 - rod 听
@@ -675,7 +678,7 @@
 - roso 推
 - roto 拉
 - rûn 北
-- rut 左
+- rut 左，之左
 - ruz 光秃
 
 ## RH
@@ -758,13 +761,14 @@
 - tawon 开始，起始
 - táso 不久前
 - távo 不久后
-- tel 字母
-  - tero 字，词，文字
-    - tériman (terorémmíténda) 消息
+- telo 字，词，文字
+  - teg 字母
+  - téliman (telorémmíténda) 消息
 - tent 紧密
   - tenth 紧张
 - ténro 睡觉
   - ténson 床 
+- ter 之前 
 - ti 第二人称单数主格
   - tin 第二人称单数宾格
   - til 第二人称单数所有格
@@ -790,8 +794,8 @@
 - tot 时间
   - totí 现在
   - totél 过去
-  - toter 已经/之前
-  - tomei 仍未/之后
+  - toter 已经
+  - tomeu 仍未
   - tocot 才，刚刚
   - toft 未来
   - toderé(totuderprié) 速度
